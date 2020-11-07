@@ -7,3 +7,6 @@ Alejandro Sánchez de la Fuente
 |--|--|
 | Autor: Alejandro sánchez | https://github.com/alejandrosan-alumn |
 | Profesor: Luis Serrano | https://github.com/crisrex |
+
+Usuario crisrex ya está resuelta la issue 1
+https://github.com/alejandrosan-alumn/si3trimestre/issues/1#issue-738271667
